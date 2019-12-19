@@ -1,0 +1,63 @@
+{
+    "name": "Clear Books",
+    "description": "Clear Books is simple, award-winning cloud accounting software designed to help you save time so you can focus on growing your business. All your data is hosted securely online, so you can access your information and collaborate with your colleagues and accountant anywhere, any time.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/clearbooks.jpg",
+    "tags": [
+        "accounting",
+        "api provider",
+        "financial",
+        "have api",
+        "invoices"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/clear-books\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Clear Books",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/clearbooks.jpg",
+            "humanURL": "http:\/\/www.clearbooks.co.uk",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/clear-books-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.clearbooks.co.uk\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.clearbooks.co.uk\/front-page\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.clearbooks.co.uk\/support\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/clearbooks"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.clearbooks.co.uk\/apps"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/clearbooks"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.clearbooks.co.uk"
+        }
+    ]
+}
